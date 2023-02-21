@@ -9,7 +9,8 @@ import { Socialicons } from "../components/socialicons";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 
 // Writing
-import { Toni } from "../pages/toni"
+import { Toni } from "../pages/toni";
+import { Depression } from "../pages/depression";
 
 const AnimatedRoutes = withRouter(({ location }) => (
   <TransitionGroup>
@@ -30,6 +31,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
 
         {/* Writing */}
         <Route path="/writing/tonijoseph" element={<Toni />} />
+        <Route path="/writing/depression" element={<Depression />} />
 
       </Routes>
     </CSSTransition>
