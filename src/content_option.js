@@ -23,7 +23,7 @@ const dataabout = {
 // Writing Pages
 const toni = {
     title: "Toni Y. Josepph",
-    tonijoseph: `yo wtf, whay arent you changin?`,
+    tonijoseph: "yo wtf, whay arent you changin?",
 };
 
 const depression = {
