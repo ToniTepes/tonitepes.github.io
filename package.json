@@ -2,7 +2,7 @@
     "homepage": "https://tonitepes.github.io/",
     "name": "",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "dependencies": {
         "bootstrap": "^5.2.3",
         "emailjs-com": "^3.2.0",
