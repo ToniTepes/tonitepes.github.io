@@ -23,7 +23,7 @@ const dataabout = {
 // Writing Pages
 const toni = {
     title: "Toni Y. Josepph",
-    tonijoseph: "yo wtf, whay arent you changin?",
+    tonijoseph: "“‘Get busy, nigger’ I was told. ‘This here is one lazy niggeress’” are the first words I ever read by my aunt Toni. They are from a book composed of her articles and essays from over her years as a journalist. Even though the book was dedicated to me, I could never get past the first page. I don’t exactly know why, and I don’t exactly remember the moment I read on from there, but it was shamefully recent. The book was published in 1994 right after her death, but for whatever reason I never read past those few words. For decades I carried around a copy of One Voice with me constantly. It lived on a bookshelf in whatever dump I was occupying at the time and survives to this day not ten feet from where I’m sitting currently. This copy is special. It was sent to me from Nancy, my aunt's best friend, when I was a little kid. It may or may not have been a sign or an urge from Nancy to read my auntie’s words one day and feel the righteous calling of truth that Toni felt. Choosing to dedicate the book to me may or may not have been a message from my aunt to do the same. Either way, now I have read the book and it changed everything. Now it's time for me to follow a path that I wanted to be on before my eye opening moment. A path I may or may not have been set on"
 };
 
 const depression = {
