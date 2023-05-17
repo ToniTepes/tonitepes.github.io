@@ -31,16 +31,16 @@ const depression = {
     depression: "stuff about depression",
 };
 
-// Writing pages links
+// Writing pages links (With images, and hidden title)
 const datawriting = [{
     img: "https://picsum.photos/400/?grayscale",
     desctiption: "Pulitzer Prize Winner Toni Y. Joseph. My Auntie",
-    link: "../writing/tonijoseph",
+    link: "./writing/tonijoseph",
 },
 {
     img: "https://picsum.photos/400/800/?grayscale",
     desctiption: "Probably Something About Depression",
-    link: "../writing/depression",
+    link: "./writing/depression",
 },
     // {
     //     img: "https://picsum.photos/400/?grayscale",
