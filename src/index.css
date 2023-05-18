@@ -59,6 +59,8 @@ a:hover {
 p {
     word-break: break-word;
     hyphens: auto;
+    white-space: pre-line;
+    /* text-indent: 50px; */
 }
 
 .ovhidden {
