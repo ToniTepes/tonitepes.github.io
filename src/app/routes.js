@@ -10,7 +10,7 @@ import { CSSTransition, TransitionGroup } from "react-transition-group";
 
 // Writing
 import { Toni } from "../pages/toni";
-import { Depression } from "../pages/depression";
+import { CovidAndAids } from "../pages/covidaids";
 
 const AnimatedRoutes = withRouter(({ location }) => (
   <TransitionGroup>
@@ -31,7 +31,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
 
         {/* Writing */}
         <Route path="/writing/tonijoseph" element={<Toni />} />
-        <Route path="/writing/depression" element={<Depression />} />
+        <Route path="/writing/covidaids" element={<CovidAndAids />} />
 
       </Routes>
     </CSSTransition>
