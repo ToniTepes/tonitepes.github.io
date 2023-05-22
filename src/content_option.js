@@ -235,13 +235,13 @@ const datawriting = [{
     img: "https://picsum.photos/400/?grayscale",
     desctiption:
         "Pulitzer Prize Winner Toni Y. Joseph. My Auntie",
-    link: "./writing/tonijoseph",
+    link: "./tonijoseph",
 },
 {
     img: "https://picsum.photos/400/800/?grayscale",
     desctiption:
         "COVID-19 vs. HIV/AIDS: The Politics of Public Health",
-    link: "./writing/covidaids",
+    link: "./covidaids",
 },
     // {
     //     img: "https://picsum.photos/400/?grayscale",
