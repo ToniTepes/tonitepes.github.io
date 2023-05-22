@@ -1,6 +1,6 @@
 {
     "name": "tonitepes.github.io",
-    "homepage": ".",
+    "homepage": "https://tonitepes.github.io/public/index.html",
     "version": "0.1.0",
     "private": false,
     "dependencies": {
