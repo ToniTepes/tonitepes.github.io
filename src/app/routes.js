@@ -9,7 +9,7 @@ import { Socialicons } from "../components/socialicons";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
 
 // Writing
-import { Toni } from "../pages/toni";
+import { Toni } from "../pages/tonijoseph";
 import { CovidAndAids } from "../pages/covidaids";
 
 const AnimatedRoutes = withRouter(({ location }) => (
