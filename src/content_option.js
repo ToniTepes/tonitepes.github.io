@@ -240,7 +240,7 @@ const datawriting = [{
 {
     img: "https://picsum.photos/400/800/?grayscale",
     desctiption:
-        "COVID-19 vs. HIV/AIDS: The Politics of Public Health",
+        "COVID-19 vs. HIV/AIDS: The Politics of `Public` Health",
     link: "./covidaids",
 },
     // {
