@@ -30,10 +30,10 @@ export const ContactUs = () => {
 
     emailjs
       .sendForm(
-        'service_fvpc2of',
-        'template_s678r1c',
+        process.env.REACT_APP_SERVICE_ID,
+        process.env.REACT_APP_TEMPLATE_ID,
         templateParams,
-        '1UkgpGvLwzuNidrPD'
+        process.env.REACT_APP_PUBLIC_KEY
       )
       .then(
         (result) => {
