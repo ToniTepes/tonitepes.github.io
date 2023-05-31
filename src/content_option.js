@@ -302,9 +302,9 @@ const contactConfig = {
     description: "For writing, copywriting, editing, photo print request and all other inquiries.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "REACT_APP_SERVICE_ID",
+    YOUR_TEMPLATE_ID: "REACT_APP_TEMPLATE_ID",
+    YOUR_USER_ID: "REACT_APP_PUBLIC_KEY",
 };
 
 // Add cash appp and venmo
