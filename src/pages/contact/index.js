@@ -1,12 +1,12 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import * as emailjs from "emailjs-com";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
-import { meta } from "../../content_option";
+import { meta, contactConfig } from "../../content_option";
 import { Container, Row, Col, Alert } from "react-bootstrap";
-import { contactConfig } from "../../content_option";
 
 export const ContactUs = () => {
+  const form = useRef(null);
   const [formData, setFormdata] = useState({
     email: "",
     name: "",
@@ -32,7 +32,8 @@ export const ContactUs = () => {
       .sendForm(
         process.env.REACT_APP_SERVICE_ID,
         process.env.REACT_APP_TEMPLATE_ID,
-        templateParams,
+        // templateParams,
+        form.current,
         process.env.REACT_APP_PUBLIC_KEY
       )
       .then(
@@ -111,7 +112,7 @@ export const ContactUs = () => {
             <p>{contactConfig.description}</p>
           </Col>
           <Col lg="7" className="d-flex align-items-center">
-            <form onSubmit={handleSubmit} className="contact__form w-100">
+            <form ref={form.current} onSubmit={handleSubmit} className="contact__form w-100">
               <Row>
                 <Col lg="6" className="form-group">
                   <input
