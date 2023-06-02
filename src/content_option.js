@@ -297,7 +297,7 @@ const datawriting = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "service_fvpc2of",
+    YOUR_EMAIL: "AntonioStacy@gmail.com",
     // YOUR_FONE: "(555)123-4567",
     description: "For writing, copywriting, editing, photo print request and all other inquiries.",
     // creat an emailjs.com account 

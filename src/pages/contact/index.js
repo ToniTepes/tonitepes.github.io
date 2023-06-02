@@ -2,8 +2,9 @@ import React, { useState, useRef } from "react";
 import * as emailjs from "emailjs-com";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
-import { meta, contactConfig } from "../../content_option";
+import { meta } from "../../content_option";
 import { Container, Row, Col, Alert } from "react-bootstrap";
+import { contactConfig } from "../../content_option";
 
 export const ContactUs = () => {
   const form = useRef(null);
@@ -33,7 +34,6 @@ export const ContactUs = () => {
         process.env.REACT_APP_SERVICE_ID,
         process.env.REACT_APP_TEMPLATE_ID,
         form.current,
-        templateParams,
         process.env.REACT_APP_PUBLIC_KEY
       )
       .then(
