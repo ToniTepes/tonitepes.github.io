@@ -43,11 +43,11 @@ const Headermain = () => {
                   <li className="menu_item">
                     <Link onClick={handleToggle} to="/about" className="my-3">About</Link>
                   </li>
-                  <li className="menu_item">
+                  {/* <li className="menu_item">
                     <Link onClick={handleToggle} to="/contact" className="my-3">Contact</Link>
-                  </li>
+                  </li> */}
                   <li className="menu_item">
-                    <Link onClick={handleToggle} to="https://drive.google.com/file/d/1XRMBJw3MaaYvKZ8NmfnIp1N2G6ijzh4g/view" className="my-3">Resume</Link>
+                    <Link onClick={handleToggle} to="https://drive.google.com/file/d/1oH-D-2RzEUD83f6EKM_OjZj3wT1yDGcH/view?usp=sharing" className="my-3">Resume</Link>
                   </li>
                 </ul>
               </div>
