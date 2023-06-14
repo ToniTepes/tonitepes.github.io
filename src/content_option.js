@@ -235,9 +235,230 @@ const covidaids = {
 const jack = {
     title: "About Jack (A Not So Personal Narritive)",
     aboutjack:
-        "just some test text",
-
-
+        "Do you remember the time you met your best friends? How old you were, or where you were? I’m sure you do, as the " +
+        "same for most people. Well, I mostly do not. I could not tell you the circumstances in which I have met nearly " +
+        "anyone I know. Same applies to my closest friends. Maybe one or two hazy stories, but nothing really stands out. " +
+        "People have told me a lot of interesting stories about the first time we met, but unfortunately, I hardly remember " +
+        "any of them vividly except two. The day I met the love of my life and more importantly, the night I met my best " +
+        "friend, Jack. " +
+        "\n" +
+        "\n" +
+        "I had just moved into a little house in a small town called Elida, right outside of Lima, Ohio. Yes, Lima. There were " +
+        "more things I needed to retrieve from Cleveland and by this time, I had met these cousins named Alex and Asia. Alex " +
+        "and I had grown a bit fond of each other so her mother offered us her truck to drive home and pick up my remaining " +
+        "items. It is lovely to meet someone who trusts you enough to take their only car three hours away. Their family was " +
+        "wonderful to me and considering where I resided, it was much appreciated. Sadly, Alex and I didn’t get to know each " +
+        "ther much better. I don’t often look back in general, at least not fondly, and almost never about romances. I don’t " +
+        "quite see the point, and I honestly don’t have many fond memories in general. I have a lot of mental differences, including " +
+        "Autism. So, my mind has held on to a lot of traumatic memories instead of good ones. It’s unfortunate, but it is my " +
+        "existence. Although, I do think the joy of having Jack as a best friend still aids me in remembering clearer details " +
+        "of others. It may sound crude, but I can almost assure you that if Jack was not involved in our meeting I could have " +
+        "just as easily forgotten Alex." +
+        "\n" +
+        "\n" +
+        "In Cleveland after the remainder of my things were collected, I needed to make one last stop. Before heading back to Lima, " +
+        "I needed to visit  a friend and grab some furniture. When we arrived, his Mom had several courses of dinner made. " +
+        "Naturally, she wanted us to eat before we left. And she was certainly curious about whose truck I was driving and " +
+        "who I had with me. Fortunately, it was getting too late for a meal and an interrogation so we made some to go plates, " +
+        "packed up the last of the things and began to head out. Just then my friend's Mum runs back out waving her hand as if " +
+        "I had forgotten something precious." +
+        "\n" +
+        "\n" +
+        " I roll down the window and she yells, “Want a kitten!?” " +
+        "\n" +
+        "“A what!? Naw, what do I want with a cat!?” I asked in bewilderment. " +
+        "\n" +
+        "“Well they were born too soon and the mother ran off so we lost a few. " +
+        "A couple were taken by some friends and there is only one left! I can’t " +
+        "have any more animals around here! The kids pets are always " +
+        "around and I said ‘NO MORE!’” She hollard. " +
+        "\n" +
+        "I definitely was not in any position to take a baby animal. " +
+        "Especially not one that needed special care. " +
+        "\n" +
+        "“No way!” I said. " +
+        "\n" +
+        "“What would my Papaw say if he knew I got a cat?” I thought out loud. " +
+        "\n" +
+        "My friend's mother, your average idea of an Italian mom, persisted. " +
+        "I knew that I was not getting out of there without " +
+        "seeing this kitten and you know how persistent Momas can be. " +
+        "Especially when you already didn’t eat. " +
+        "\n" +
+        "“I’m gonna go get him anyway! Just look at him and you’ll see!” She persisted. " +
+        "\n" +
+        "I shoved the big truck’s shifter back into park and slouched back into the seat " +
+        "with a huff that comes standard with a teenage only child." +
+        "\n" +
+        "“OOOOHHHH MMYYYY GOOOOOD” As I still say when something is a minor inconvenience. " +
+        "\n" +
+        "“Fine!” I groaned." +
+        "\n" +
+        "\n" +
+        "Just as quickly as she ran off she was back. With two hands she was cupping this little thing that could easily " +
+        "fit in one.This little dude had the audacity to raise his head, look up at me, meow and present me with a mustache! " +
+        "A mustache.This cat had a mustache.He meowed directly at me into my eyes and meowed again. " +
+        "As to say, “Yes Antonio.You are mine now and I am yours.” " +
+        "\n" +
+        "I perked up and yelled, “WOW, Did they all have mustaches!?” " +
+        "\n" +
+        "Dean's mom said “nope!” while laughing and smiling. " +
+        "\n" +
+        "\n" +
+        "The girls had plenty of “Awws” on deck so knew they would not be supportive of me leaving this kitten behind. " +
+        "\n" +
+        "\n" +
+        "“Who wouldn’t take the cat with the mustache!? What kind of friends do you have, Mrs G!?” I exclaimed, probably rudely. " +
+        "\n" +
+        "\n" +
+        "I grabbed my little guy, looked him in the face and right on the spot I thought “You’re a Jack!” And so it was. For as talkative " +
+        "as he was, after driving for about 30 minutes, he was fast asleep right in my lap. " +
+        "\n" +
+        "\n" +
+        "I grabbed my little guy, looked him in the face and right on the spot I thought “You’re a Jack!” And so it was. For as " +
+        "talkative as he was, after driving for about 30 minutes, he was fast asleep right in my lap. " +
+        "The whole three hour drive I thought “Jack is going to piss in my lap.Doesn’t cat pee smell really bad? Isn’t it toxic!?Man, " +
+        "I’m going to fuck up Alex’s’ mom’s truck.” But he didn’t move or make a peep the whole drive.I kept checking to make sure " +
+        "he wasn’t dead but he was just being the sweetest little thing.I couldn’t believe how small he was.I couldn’t believe he was mine. " +
+        "\n" +
+        "\n" +
+        "When we got back to Lima all the usuals were around. I had moved in with a couple of guys from Michigan that were going to " +
+        "the same school. They were raised in the rural parts of Michigan, so they tended to be a little… rural I suppose. Same " +
+        "with most of the people often around my house while I lived there. Same with a part of myself as well. My place was a " +
+        "revolving door of mechanics, people I met around and so on. I was raised in open door policy homes and that’s just how my own " +
+        "places ended up. Everyone was so confused. Thoughts on Jack's entrance rang from around the room. " +
+        "\n" +
+        "\n" +
+        "“What's that thing!?” " +
+        "\n" +
+        "“What are you bringing a cat around here for!? ” " +
+        "\n" +
+        "“You know what my dad would say if he saw you walk through the door with that thing!?” " +
+        "\n" +
+        "\n" +
+        "Comments and laughs echoed throughout. " +
+        "\n" +
+        "\n" +
+        "“A CAT!?” One of my roommates yells out from the kitchen. “Bring it in here!” " +
+        "\n" +
+        "\n" +
+        "The house was full this evening. Full of food, full of smoke, full of booze and full of people. Jack on the other hand, in my " +
+        "hand, seemed completely unbothered. Unbothered to the point that I thought he might be deaf. Everyone loved the mustache and passed " +
+        "him around to take a look. Imagine a bunch of big and burly dudes passing around a kitten, smiling at his face - then of course " +
+        "you’ll smile too. " +
+        "\n" +
+        "\n" +
+        "Jack was a smash hit. He instantly became a favorite because of his chill demeanor, and his tendency to hold a chat if " +
+        "you so pleased. I also could not bring myself to keep him inside so he developed pretty good hunting and social skills. We " +
+        "would hang out in the driveway, working on cars and watching Jack hunt in the open field by our house. After showing off his " +
+        "fetching skills we had been developing and the fact that he brought us a few treats, including a rabbit, everyone was sold. " +
+        "People would always say. “This is the only cat I like!” And for the longest time, I felt the same. " +
+        "\n" +
+        "\n" +
+        "His fame continued to Columbus. There, he developed a habit of walking into people's houses. He also continued to get around " +
+        "a lot so he ended up making a lot of friends on his own.  " +
+        "\n" +
+        "\n" +
+        "We would sit outside on the porch often, and when Jack was around, " +
+        "people would say, “Is that your cat!? He hung out at our house for " +
+        "a while. He is super cool!” " +
+        "\n" +
+        "Or, “He took a small walk with us and was chatty.” " +
+        "\n" +
+        "\n" +
+        "All great things to hear from complete strangers that you could tell had an exceptional appreciation for him." +
+        "\n" +
+        "\n" +
+        "One afternoon at a bar, a friend and I were talking about Jack when a girl walked up and asked, “Are you talking about the cat with a mustache!?” " +
+        "\n" +
+        "\n" +
+        "We were blown away. Turns out this girl was friends with my friend's little brother, and had seen pictures of Jack. " +
+        "\n" +
+        "\n" +
+        "Through the rough times that Jack and I shared together, hard things needed to be done. Sometimes Jack needed to stay with " +
+        "friends, while I got my shit together. But Jack's ability to get along with anyone or anything made him a complete treasure to " +
+        "everyone around. I watched with admiration as Jack formed personal relationships with people. It was like he was everyone’s cat " +
+        "and just about everyone has a personal story with him. From people saying that he comforted them in sadness to people saying " +
+        "that he gave them good dreams to people even saying that he helped them through night terrors. " +
+        "\n" +
+        "\n" +
+        "There were also all the times that Jack had to eat what I was eating. He was a big cat with an iron stomach which came in handy " +
+        "when we were out of cat food. He ate anything that was meat and for some reason he loved sugar cookies as well. Many times we " +
+        "had to share five dollar footlongs and whatever else we had around. Chicken scraps and all. I’m ashamed to admit that I let him " +
+        "eat bone for years. I was a kid. I did not know that was bad at the time. He lived a full life ok! Don’t judge younger me! " +
+        "\n" +
+        "\n" +
+        "It is a fabled and established thought that animals take on the personalities of their partners and vice versa. I always kind " +
+        "of considered Jack to be my familiar. An extension of myself that could summon my compassions without complicating them with words. " +
+        "People commented that we were very similar, which I always thought was hilarious. " +
+        "\n" +
+        "\n" +
+        "“Sure!” I’d say. “I can see that.” " +
+        "\n" +
+        "\n" +
+        "My tendency to keep people around, especially people who have nowhere else to go, has been a constant. I just want everyone, especially " +
+        "my loved ones (of which there are several) to be safe and have something to eat. I want them to have a place to lay their head and " +
+        "a place for them to be loved. Maybe that energy seeped into Jack, and he understood what my mission was. He made me feel as if I did " +
+        "something right. For as young and irresponsible as I was when I got Jack, I wondered how I raised such a magnificent animal. An obviously " +
+        "caring and compassionate one. Caring and compassionate enough to deal with dogs and my roommates pet rats who used to crawl all over Jack. " +
+        "It wasn’t his favorite thing, but he let it happen and it was pretty shocking. He was a very surprising type of guy. " +
+        "\n" +
+        "\n" +
+        "There are things we do to please our egos that inherently come with having a pet. For instance, everyone thinks that they have the best " +
+        "pet. Everyone thinks their pet is the smartest, most loving and the most emotionally intuitive. I, of course, think all of these things " +
+        "of Jack, but the affirmation from others made him objectively one of the most special. We, together, were able to create homes out of " +
+        "dirty rentals. Homes that had good caring people around even if most of them were troubled. Jack did have his personal sense of acceptance " +
+        "for others. Rather they be human or other animals, he did have preferences that, like my own, weren't very narrow. We both mostly accepted " +
+        "others, but kept a weather eye on those who would potentially take advantage." +
+        "\n" +
+        "\n" +
+        "Jack gave me a sense of accomplishment, a home and a sense of security. I could squeeze and kiss him all I wanted, but also knew he could " +
+        "hold his own in the street (I’ve seen his mess up a dog pretty bad). Jack and I lived in about eight to ten different houses over four or " +
+        "five different cities together before he finally passed away here in Cleveland, where he was born. He lived to be 13 years old and liked " +
+        "taking car rides, cuddling up, and eating junk food right up until the end. Jack's very last new friend that I know of was a 75-year-old " +
+        "Puerto Rican woman named Sonya who would eventually be my kitten Bobbi’s first new friend. " +
+        "\n" +
+        "\n" +
+        "At first, I wasn’t ready for a new cat. Jack was the very first pet that was just mine and to be honest I never really cared for cats too " +
+        "much. Chances were that I wasn’t going to get another cat like Jack and there is no way I really could. When I got Bobbi, things were really " +
+        "hard. It was almost like we weren’t compatible, and like it just wasn’t going to work out. I was still too attached to Jack and I think " +
+        "that she saw that. Perhaps I wasn’t letting her in. Perhaps she saw the part inside of me that was not ready for a new fur friend. I cried " +
+        "about this, but after some time we did bond. She is my new familiar and she has shown me a part of her that is similar to Jack, and yet " +
+        "still completely her. " +
+        "\n" +
+        "\n" +
+        "There was a part of me that believed that Jack belonged to an alien race. Like, they were going to take me and a select few other earth " +
+        "dwellers back to a super advanced civilization of cats in a galaxy far, far away! Kind of like that episode of Futurama where it turns out " +
+        "that Nibler is a part of an advanced race of aliens in charge of saving the universe. Nope, he died suddenly and, in the house, which " +
+        "pleasantly surprised me. I always figured he’d just not come back one day, or that I would get a call from a stranger. " +
+        "He had tags with my number on them and people actually would call me and say, “Hey! Is this Jack ? I found your cat.He’s friendly!” " +
+        "Why would I put my name on the cat's collar? Anyway, I thought at least I didn’t have to watch him suffer. But, I also didn’t really get to see " +
+        "what type of old old cat he would be. I also thought he would have perished long ago but he made it to 13! " +
+        "Even after he turned 10 I remember thinking “If he hasn’t died yet he will probably live forever.” " +
+        "I knew that wasn’t possible, but he had no signs of slowing down.After all, he had just been to the vet and they gave him a clean bill of " +
+        "health.Alas everything must go, which is something I accepted long before Jack's death. " +
+        "\n" +
+        "\n" +
+        "I’ve always thought it was a little weird to consider your pets your children. Cringe would be a better word. You get to choose " +
+        "your pet and your pet chooses you. They come and go and you have special ones out of the bunch that stay with you forever. " +
+        "You typically outlive them and any parent that has lost a child, will tell you that losing a child is nothing like losing " +
+        "a pet. Anthropomorphizing, to me, is inappropriate and problematic for many reasons. It takes away the animal’s agency to " +
+        "be an animal and to live out its own instinctual wants and needs. It also feels that this anthropomorphizing removes something " +
+        "special from the relationship. The fact that you are coexisting with an animal, let alone an animal that could care for itself " +
+        "(like a cat), is pretty incredible. " +
+        "\n" +
+        "\n" +
+        "I respect nature and respect that anytime I let Jack or Bobbi outside they can choose to come back or not. I respect even more that they " +
+        "did choose to do so, whatever the reason. Well, the reason is free food, but most of us know the bond they share with us as well." +
+        "\n" +
+        "\n" +
+        "I’m a big advocate for animal agency. I believe that if you are taking on the responsibility of housing an animal it is your responsibility " +
+        "to appease the instinctual urges of the specific animal. If you have a herding breed of dog, you need to take it out running daily and so on. " +
+        "One of the things that made Jack the best cat ever was the space I gave him. Jack completely chose his own destiny everyday. I " +
+        "pretty much never imposed boundaries on him so he came and went as he pleased. Jack was my best friend, not my child. He decided " +
+        "to never leave my life, no matter where we lived. He always found his way back to me after days sometimes and that was his call. " +
+        "Jack is the most important part of my ability to look back. I remember people through him and times spent around him. I love you jack, " +
+        "always and forever. And, thank you for choosing me. ",
 };
 
 // Writing pages links (With images, and hidden title)
