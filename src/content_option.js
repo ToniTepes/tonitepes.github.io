@@ -232,6 +232,14 @@ const covidaids = {
 
 };
 
+const jack = {
+    title: "About Jack (A Not So Personal Narritive)",
+    aboutjack:
+        "just some test text",
+
+
+};
+
 // Writing pages links (With images, and hidden title)
 const datawriting = [{
     img: "https://picsum.photos/400/?grayscale",
@@ -245,11 +253,11 @@ const datawriting = [{
         "COVID-19 vs. HIV/AIDS: The Politics of `Public` Health",
     link: "./covidaids",
 },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+{
+    img: "https://picsum.photos/400/?grayscale",
+    desctiption: "About Jack (A Not So Personal Narritive)",
+    link: "./aboutjack",
+},
     // {
     //     img: "https://picsum.photos/400/600/?grayscale",
     //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
@@ -332,4 +340,5 @@ export {
     // writing
     toni,
     covidaids,
+    jack,
 };
