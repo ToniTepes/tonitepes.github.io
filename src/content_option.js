@@ -464,7 +464,79 @@ const jack = {
 const blackart = {
     title: "Black Art Today",
     blkarttoday:
-        "Some test text!"
+        "I have recently, in the past few years, witnessed a slight shift in conversations with black artists. The sentiment " +
+        "from some is that they would like to make art that does not have to speak to blackness or to The Struggle. I " +
+        "slightly understand this thought process, but I do not think that it’s that easy. After all, there isn’t an on/off " +
+        "switch for your emotional intellectual self. Now, you can choose to have a conversation about computers, for " +
+        "instance, which does not have to speak to your personal experiences. The same applies to most things that you " +
+        "would want to speak to with your art. You can literally make it about anything you want." +
+        "\n" +
+        "\n" +
+        "There are several caveats though. First, if you are tired of hearing the narrative, or you think that the art market is " +
+        "saturated with stories of experiences in the black body, then I would urge you to think about the history of being able to " +
+        "openly express The Struggle. The tiny blip of time that black people have been able to speak out about The Struggle has been " +
+        "mostly violent and tragic. And when I say tiny blip, consider the following: Ruby Bridges was six years old in 1960 when she " +
+        "attended the first desegregated school and right now she is 68 years old. The first African slaves landed on this dump of a " +
+        "rock in 1619. That is 341 years of violent and disgusting oppression. Even after that period of time, the prevalent black voices " +
+        "that weren’t murdered were mostly kept in academia or in music studios. Popular American activists for civil rights have continued " +
+        "to be assassinated into the mid 90s and it's still happening today here and around the world. It has only been the past five " +
+        "to ten years that black people have been able to express our art loudly, truthfully, on our own terms and even earn money " +
+        "from it casually. The black artist who gets to type, paint, photograph, draw, sculpt and broadcast “KILL WHITEY” can do so on " +
+        "a pedistole and get paid for it these days. Our parents couldn’t do that and their parents obviously could not even dream of " +
+        "that freedom. " +
+        "\n" +
+        "\n" +
+        "Which brings me to my second point. 90 percent of the older black generation (our parents and grandparents) would probably " +
+        "tell us to preach our truths. Again, they did not have as much freedom to do so, and again, that was very recently. If " +
+        "you were to talk to a black icon from the civil rights era, through the 1980s, what do you think they would say about " +
+        "this? I’m sure that they would reassure us that burn out was a thing before it was a buzzword. They would tell us that " +
+        "the fight for our rights and our truth to be told can be utterly exhausting. But, they would also tell us that speaking " +
+        "our truth is absolutely necessary at all costs in order to achieve progress. Everyday is a struggle. We as a population " +
+        "know that, and it is so tiring. It can seem like everything is about race, and there is an argument to be made about " +
+        "how potentially futile this decades long conversation is to keep having. It can feel like “Dam. We have told yall literally " +
+        "everything about the details of The Struggle and you have done literally nothing with it.” We talk and talk and can’t " +
+        "steer conversation away from ourselves most of the time. Yelling into what feels like a void about the abuse and " +
+        "destruction of our bodies is heartbreaking for us and does break you down at times. Sometimes you wonder if anyone " +
+        "can see past your blackness. But can we escape it? Is it something we need to escape? " +
+        "\n" +
+        "\n" +
+        "Caveat three. We are stuck. Barring surgeries or skin treatments to make yourself white or even just not black, " +
+        "you are in a black body. Regardless of how you feel about it, it is what you can not hide. I am a black writer, " +
+        "scientist, musician, queer, auto enthusiast, father and so on, but only one of those is obvious when I walk into a room. " +
+        "Whereas most people are mysteries and things you should wonder about and ask questions to, black peoples' histories are " +
+        "often presumed. By this I mean, that when a white or non black person sees a black person, specifically in the city, " +
+        "they consciously or subconsciously assume a portion of your story. You know, the parts where none of us have dads or " +
+        "that we all have cousins in prison, or that we probably went through sooooooo much to get to where we are today. Rather " +
+        "those things are true to your life or not, they are presumed and presumptions can really fuck up you ambitions as an " +
+        "artist. Your blackness is inherent no matter what. The things that you went through in your life were as a black person " +
+        "and that changes almost every interaction you have had. So really no matter what you are speaking to or about with your " +
+        "art, you are sharing it from the black experience. You could not separate yourself from it if you wanted to, but you " +
+        "don’t want to anyway because we are proud to be black, right? " +
+        "\n" +
+        "\n" +
+        "So many moments in our lives have been against us. That's not grandstanding or preaching, it is a fact. Housing, healthcare, " +
+        "childcare, finance, education and all of these other systems have been proven to be inherently against the black population. " +
+        "So, rather you had a life where blackness was at the forefront or you had a life where being called “one of the good ones” " +
+        "didn't bother you, you were resisted because of your color. The skin that you wear proudly has made it harder for you to " +
+        "succeed, and rather you focus on that or not, it did shape you and will continue to shape you and your interactions. I can " +
+        "choose to have a conversation about computers, but I can’t forget about the racist Russian kid in my high school computer " +
+        "class. I can’t forget that I have applied at over 200 computer programming jobs and had less than a handful of interviews. I " +
+        "can’t forget that I know that the computer technology field is filled with white men (and women). And I can imagine that they " +
+        "probably seemed like a”better fit” because of their profile photo and not their skills. That has shaped me. That has taken " +
+        "a dream I had and made it less desirable and maybe I hate it now. I love computers, but I don’t love the community I would " +
+        "have to be surrounded with. I did it once before. Automotive engineering is mostly white men and I don’t wish to be in " +
+        "those environments anymore. Those experiences made me feel less than and not as intelligent as I should be considered to " +
+        "be and they also made me feel lonely. " +
+        "\n" +
+        "\n" +
+        "Our art and expression will always be from a place of blackness and we are lucky to be able to shout about it now. Recently. " +
+        "There are so many stories about our lives that are impacted by who we are or what we look like. You can choose to not tell " +
+        "that part of the story, but it doesn't mean that it doesn't exist, or that you can ignore it. We all know that not dealing " +
+        "with something is not a good way to get it to go away. " +
+        "\n" +
+        "\n" +
+        "With Love",
+
 };
 
 // Writing pages links (With images, and hidden title)
