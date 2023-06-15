@@ -461,6 +461,12 @@ const jack = {
         "always and forever. And, thank you for choosing me. ",
 };
 
+const blackart = {
+    title: "Black Art Today",
+    blkarttoday:
+        "Some test text!"
+};
+
 // Writing pages links (With images, and hidden title)
 const datawriting = [{
     img: "https://picsum.photos/400/?grayscale",
@@ -479,11 +485,11 @@ const datawriting = [{
     desctiption: "About Jack (A Not So Personal Narritive)",
     link: "./aboutjack",
 },
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+{
+    img: "https://picsum.photos/400/600/?grayscale",
+    desctiption: "Black Art Today",
+    link: "./blkarttoday",
+},
     // {
     //     img: "https://picsum.photos/400/300/?grayscale",
     //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
@@ -562,4 +568,5 @@ export {
     toni,
     covidaids,
     jack,
+    blackart,
 };
