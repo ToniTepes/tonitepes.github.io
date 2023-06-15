@@ -82,7 +82,7 @@ const toni = {
         "felt when I started attending suburban schools with higher numbers of whites. Although in my case, they were " +
         "middle/lower middle class whites, which in my experience are easier to get along with. I, however, could not " +
         "imagine what it was like being a Black woman-a Black child nonetheless in her situation, as she was merely a " +
-        "teenager when her journey started. In context to the rest of the strong black women in our family, it is not " +
+        "teenager when her journey started. In context to the rest of the strong Black women in our family, it is not " +
         "entirely surprising though. They are all exceptionally intelligent, adaptable, fierce and compassionate. For all " +
         "that, she remained diligent, constantly being among the white wealthy class, in white wealthy institutions, all " +
         "while being a “‘down’ sister from Cleveland.” - Donna Britt. Being able to walk through these spaces was a worthy " +
@@ -93,13 +93,13 @@ const toni = {
         "Aunt Toni was an exceptional writer. I only recently found out that she had a passion for fiction writing as well, and " +
         "obviously she was great at it. However, her career was rooted in journalism. I have become so entranced with her " +
         "essays and op-eds the past couple of years. Her interviews and profiles have an elaborate range of prominent " +
-        "predominantly black activists, artists, advocates and visionaries. Over the years I have found countless articles " +
+        "predominantly Black activists, artists, advocates and visionaries. Over the years I have found countless articles " +
         "and images depicting her connections with people such as Toni Morrison, Kwame Ture, Cornel West, James " +
         "Baldwin, Keith Haring, Alice Walker and many other favored social heroes. Funny, I have an original Keith Haring " +
         "that belonged to her. I actually had no idea what it was until a close friend came over, for the first time, and " +
         "shouted “Nigga is this an original Keith Haring!?” I just loved the image, the “Free South Africa,'' message on the " +
         "bottom of it and that it belonged to my Aunt. Her crowning achievement was working at the Dallas Morning " +
-        "News “invoking the spirit and power of the black experience,” which won her a Pulitzer Prize. At this point, and " +
+        "News “invoking the spirit and power of the Black experience,” which won her a Pulitzer Prize. At this point, and " +
         "even before, Auntie had her pick of where she was going with her writing. I am certain that people repeatedly " +
         "ask “what do you/what do you want to write?” I do not have a good answer for that just yet because I really want " +
         "to write about it. " +
@@ -158,7 +158,7 @@ const toni = {
         "\n" +
         "\n" +
         "\n" +
-        "Joseph, T. Y. (1994). My Life as a Slave. In One voice: A Pulitzer prize-winning journalist tells stories about the black " +
+        "Joseph, T. Y. (1994). My Life as a Slave. In One voice: A Pulitzer prize-winning journalist tells stories about the Black " +
         "experience (p. 3). essay, Dallas-Fort Worth Association of Black Communicators. " +
         "\n" +
         "\n" +
@@ -464,7 +464,7 @@ const jack = {
 const blackart = {
     title: "Black Art Today",
     blkarttoday:
-        "I have recently, in the past few years, witnessed a slight shift in conversations with black artists. The sentiment " +
+        "I have recently, in the past few years, witnessed a slight shift in conversations with Black artists. The sentiment " +
         "from some is that they would like to make art that does not have to speak to blackness or to The Struggle. I " +
         "slightly understand this thought process, but I do not think that it’s that easy. After all, there isn’t an on/off " +
         "switch for your emotional intellectual self. Now, you can choose to have a conversation about computers, for " +
@@ -473,22 +473,22 @@ const blackart = {
         "\n" +
         "\n" +
         "There are several caveats though. First, if you are tired of hearing the narrative, or you think that the art market is " +
-        "saturated with stories of experiences in the black body, then I would urge you to think about the history of being able to " +
-        "openly express The Struggle. The tiny blip of time that black people have been able to speak out about The Struggle has been " +
+        "saturated with stories of experiences in the Black body, then I would urge you to think about the history of being able to " +
+        "openly express The Struggle. The tiny blip of time that Black people have been able to speak out about The Struggle has been " +
         "mostly violent and tragic. And when I say tiny blip, consider the following: Ruby Bridges was six years old in 1960 when she " +
         "attended the first desegregated school and right now she is 68 years old. The first African slaves landed on this dump of a " +
-        "rock in 1619. That is 341 years of violent and disgusting oppression. Even after that period of time, the prevalent black voices " +
+        "rock in 1619. That is 341 years of violent and disgusting oppression. Even after that period of time, the prevalent Black voices " +
         "that weren’t murdered were mostly kept in academia or in music studios. Popular American activists for civil rights have continued " +
         "to be assassinated into the mid 90s and it's still happening today here and around the world. It has only been the past five " +
-        "to ten years that black people have been able to express our art loudly, truthfully, on our own terms and even earn money " +
-        "from it casually. The black artist who gets to type, paint, photograph, draw, sculpt and broadcast “KILL WHITEY” can do so on " +
+        "to ten years that Black people have been able to express our art loudly, truthfully, on our own terms and even earn money " +
+        "from it casually. The Black artist who gets to type, paint, photograph, draw, sculpt and broadcast “KILL WHITEY” can do so on " +
         "a pedistole and get paid for it these days. Our parents couldn’t do that and their parents obviously could not even dream of " +
         "that freedom. " +
         "\n" +
         "\n" +
-        "Which brings me to my second point. 90 percent of the older black generation (our parents and grandparents) would probably " +
+        "Which brings me to my second point. 90 percent of the older Black generation (our parents and grandparents) would probably " +
         "tell us to preach our truths. Again, they did not have as much freedom to do so, and again, that was very recently. If " +
-        "you were to talk to a black icon from the civil rights era, through the 1980s, what do you think they would say about " +
+        "you were to talk to a Black icon from the civil rights era, through the 1980s, what do you think they would say about " +
         "this? I’m sure that they would reassure us that burn out was a thing before it was a buzzword. They would tell us that " +
         "the fight for our rights and our truth to be told can be utterly exhausting. But, they would also tell us that speaking " +
         "our truth is absolutely necessary at all costs in order to achieve progress. Everyday is a struggle. We as a population " +
@@ -501,21 +501,21 @@ const blackart = {
         "\n" +
         "\n" +
         "Caveat three. We are stuck. Barring surgeries or skin treatments to make yourself white or even just not black, " +
-        "you are in a black body. Regardless of how you feel about it, it is what you can not hide. I am a black writer, " +
+        "you are in a Black body. Regardless of how you feel about it, it is what you can not hide. I am a Black writer, " +
         "scientist, musician, queer, auto enthusiast, father and so on, but only one of those is obvious when I walk into a room. " +
-        "Whereas most people are mysteries and things you should wonder about and ask questions to, black peoples' histories are " +
-        "often presumed. By this I mean, that when a white or non black person sees a black person, specifically in the city, " +
+        "Whereas most people are mysteries and things you should wonder about and ask questions to, Black peoples' histories are " +
+        "often presumed. By this I mean, that when a white or non Black person sees a Black person, specifically in the city, " +
         "they consciously or subconsciously assume a portion of your story. You know, the parts where none of us have dads or " +
         "that we all have cousins in prison, or that we probably went through sooooooo much to get to where we are today. Rather " +
         "those things are true to your life or not, they are presumed and presumptions can really fuck up you ambitions as an " +
-        "artist. Your blackness is inherent no matter what. The things that you went through in your life were as a black person " +
+        "artist. Your blackness is inherent no matter what. The things that you went through in your life were as a Black person " +
         "and that changes almost every interaction you have had. So really no matter what you are speaking to or about with your " +
-        "art, you are sharing it from the black experience. You could not separate yourself from it if you wanted to, but you " +
+        "art, you are sharing it from the Black experience. You could not separate yourself from it if you wanted to, but you " +
         "don’t want to anyway because we are proud to be black, right? " +
         "\n" +
         "\n" +
         "So many moments in our lives have been against us. That's not grandstanding or preaching, it is a fact. Housing, healthcare, " +
-        "childcare, finance, education and all of these other systems have been proven to be inherently against the black population. " +
+        "childcare, finance, education and all of these other systems have been proven to be inherently against the Black population. " +
         "So, rather you had a life where blackness was at the forefront or you had a life where being called “one of the good ones” " +
         "didn't bother you, you were resisted because of your color. The skin that you wear proudly has made it harder for you to " +
         "succeed, and rather you focus on that or not, it did shape you and will continue to shape you and your interactions. I can " +
