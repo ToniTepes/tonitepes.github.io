@@ -542,8 +542,99 @@ const blackart = {
 const resigning = {
     title: "My Resignation",
     myresign:
-        "Some test text ",
-
+        "For six years, I tried to navigate a world without working labor. In that time, I worked for non-profits, coffee shops, " +
+        "juice bars, regular bars, delivered cupcakes, did some editing, was paid for writing one article, and a bunch of other " +
+        "random gigs. It could seem as though none of these jobs came naturally to me, but it was quite the contrary. The thing " +
+        "is, I actually liked these places, which made it way easier to get things done. I, maybe for the first time in my life, " +
+        "loved what I did during that period. Besides the shitty pay and the grossness of some of these jobs, socially speaking-mentally " +
+        "speaking, I was much happier than in my past professional life." +
+        "\n" +
+        "\n" +
+        "The joy I felt in most of these places came from the people I worked with. While I was working within nonprofits, I " +
+        "also loved the people I served, specifically the seniors. The same goes for the patrons at several of these places. " +
+        "Working manual labor offers a community of people whose social behaviors and political ideologies aren't as complicated " +
+        "as those in the more liberal organizations. More often than not, work sites are not places that you want to talk about " +
+        "how you feel. You don't want to go on about any politics, especially not liberal politics. Not because it would make " +
+        "someone uncomfortable, but because you would most likely make yourself a target. I am not a person who hides my ideologies " +
+        "behind niceties. I think that (and being a big Black ''man'') is what kept me in the good graces of those I mostly ideologically " +
+        "opposed. For one, there is a lot that we do see eye to eye on, and for two, those types of sonsabitches love a motherfucker " +
+        "that won't back down. These types of men get off on other men that ''don't take no shit.'' had to learn to navigate that " +
+        "at a young age." +
+        "\n" +
+        "\n" +
+        "On the other hand, in the more liberal establishment, I shined by being nice and being myself. I got to talk openly about " +
+        "who I was and how I felt, and so did the people around me. My ''don't take no shit'' mentality got to take a backseat to " +
+        "the parts of me that are sweet, fun to talk to, caring, funny, queer, and complicated. It actually felt nice to be in a " +
+        "professional echochamber. There isn’t exactly an exuberance of queerdo-radical POCs that work in the world of manual " +
+        "labor. You can't possibly imagine how hard it is to share more than half of your waking hours with people who would " +
+        "probably be fine with seeing you hurt if they knew who you really were. At the very least, someone that you get along " +
+        "with and have maybe been learning a skill from for years would look at you completely differently if they knew any " +
+        "intimate details of your life. And there is a chance they would not be willing to work with you anymore, or be a total " +
+        "asshole if they had to." +
+        "\n" +
+        "\n" +
+        "Fortunately, in labor, the guy next to you, liking you or not, has almost nothing to do with whether you have a job " +
+        "or not. I have actually never been fired from a manual labor job. I have a clean record in the labor world of leaving " +
+        "jobs as opposed to being fired. And trust me, there have been not many, but a few of those sonsabitches that I did not " +
+        "like. In the labor world, you can get those things off your chest with the person that you don't like, and it's pretty " +
+        "normal. While in (what I will continue to call) the more liberal establishments, I was fired from six jobs. My ability " +
+        "to do and finish a job well never disappeared, and no one in any of those places would tell you that I did a bad job. " +
+        "In fact, I think they would say that I did my jobs very well. And that is when I would put them on the spot and ask, " +
+        " ''Then why exactly did you let me go?'' Fun fact, all of these job losses came from white women, so you know that looking " +
+        "them in the eye and asking that question would cause them to fumble considerably. The common thread here is not to be " +
+        "ignored, but you can draw your own conclusions. Actually, I'll say this: We are aware that in America, white women, " +
+        "popularly speaking, see Black men in two ways: As a sexual conquest or as a threat." +
+        "\n" +
+        "\n" +
+        "On a personal note, this saddens me greatly. I am not a person who can carry multiple hustles while working labor full " +
+        "time. It is hard work, as many who started in the white-collar world and decided to ''try learning a trade'' figured out. " +
+        "You are often needed more than eight hours, the heat is hot, and the cold is freezing. The sound of the machines is " +
+        "deafening, the chemical smells sting, and the sparks are blinding. Our muscles don't rest until that somehow exhausting " +
+        "ride home, and before you walk in your house, you have already resigned yourself to doing the bare necessities. Those " +
+        "being food, TV, shower, and usually a drink because, “I need a drink.” For a person like myself, who can be cool under " +
+        "pressure but very easily overwhelmed, this does not equate to much more activities outside of work. Waking up early " +
+        "literally makes my stomach hurt and thus Saturday becomes all I really look forward to. By then, everything has piled " +
+        "up, as you all know." +
+        "\n" +
+        "\n" +
+        "When I was a teenage mechanic, I made up a list of my favorite days of the week, from worst to best. To me, Tuesday was " +
+        "the worst day of the week. I would say that it sucked because it didn't really feel like time had passed. Next was Monday " +
+        "because, well, Mondays. Third was Wednesday because ''Yeah, we're gettin there!'' Fourth was Thursday because it is ''pretty " +
+        "much the weekend, right?'' Or at least I was going to drink like it was.Sunday followed by Friday.And Saturday is obviously " +
+        "the best because there is no work in sight all day. Sunday falls a bit short because even though there is no work, the " +
+        "Sunday Blues are real." +
+        "\n" +
+        "\n" +
+        "I feel that it's time I quit looking for jobs that I don't belong in. I mean, I do think you should always chase your " +
+        "dreams in some way at least. And if that means quitting your old life, then do it if you can. Hell, move away if you can " +
+        "or take whatever leap you can. If the opportunity is given to you, you had better take it, if you ask me. Though, I " +
+        "personally can't continue like this, and sustainable opportunities haven’t been coming my way. I am currently homeless " +
+        "and chronically homeless, jobless and chronically jobless, and practically speaking, I just can't struggle in this way " +
+        "anymore. My son is in his last year of high school, and I have no idea where he is going next. He is brilliant, so it " +
+        "could be literally anywhere, including the military, unfortunately. It's not that I hate the military option, even though " +
+        "I don't like it, but if it is the option, it will make it way harder for me to see him once he leaves. It's ironic, but " +
+        "to see him as much as I can, I will need as much money as I can, and that means I will have to work as much as I can. " +
+        "This sucks because I am not into the typical amount of time America gives dads with their children. I want more than that. " +
+        "Unfortunately, I will have less time to spend with him on a regular work schedule, but at least I'll be able to take " +
+        "him to the movies sometimes." +
+        "\n" +
+        "\n" +
+        "Today was my first labor-only job search in years. In times of money crunching, I looked for wrenching work but not as " +
+        "a means to an end. I would apply to one or two and then apply like crazy for programming, writing, bar, non-profit, or " +
+        "whatever jobs. Whatever I could to help me stepforward towards what I wanted out of life. Now I'm taking a step back. " +
+        "Maybe not forever, but to be honest, I feel so under supported by my community, why not forever? You know, the community " +
+        "that told me that I wouldn't have to go back to that life if I didn't want to. The community that told me that I have " +
+        "good ideas and that my ideas would take me somewhere. The community that told me that my words, my ''art,'' was worth " +
+        "something. Maybe it is but not to them, not here, not in America.To me, the picket line between labor and liberal " +
+        "organizations has a brick wall on it, and neither side wants you to cross it." +
+        "\n" +
+        "\n" +
+        "So, this is my resignation from the liberal working world. I'm dusting off my wrenches and hoping my hands are still " +
+        "as hard as they were back then. Mentally preparing myself with the good ol' ''You do what you gotta do'' mantra. The one " +
+        "everyone uses instead of saying that their dreams were crushed. Ultimately, it doesn't matter how hard or easy a job is. " +
+        "If it's not where you want to be or where you see your best self going, then what is it worth? Is it even worth the " +
+        "paycheck? To most, it is, and I do wish I could be so easily motivated by money, but I am not. Money does not move me " +
+        "to do just anything in order to receive it. Nevertheless , I must bow to fate and do what I gotta do.",
 };
 
 // Writing pages links (With images, and hidden title)
