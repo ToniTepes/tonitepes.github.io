@@ -539,6 +539,13 @@ const blackart = {
 
 };
 
+const resigning = {
+    title: "My Resignation",
+    myresign:
+        "Some test text ",
+
+};
+
 // Writing pages links (With images, and hidden title)
 const datawriting = [{
     img: "https://picsum.photos/400/?grayscale",
@@ -562,11 +569,11 @@ const datawriting = [{
     desctiption: "Black Art Today",
     link: "./blkarttoday",
 },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+{
+    img: "https://picsum.photos/400/300/?grayscale",
+    desctiption: "My Resignation",
+    link: "./myresign",
+},
     // {
     //     img: "https://picsum.photos/400/700/?grayscale",
     //     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
@@ -641,4 +648,6 @@ export {
     covidaids,
     jack,
     blackart,
+    resigning,
+
 };

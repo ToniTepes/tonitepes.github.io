@@ -13,6 +13,7 @@ import { Toni } from "../pages/tonijoseph";
 import { CovidAndAids } from "../pages/covidaids";
 import { Jack } from "../pages/aboutjack";
 import { BlackArt } from "../pages/blkarttoday";
+import { Resign } from "../pages/myresign";
 
 const AnimatedRoutes = withRouter(({ location }) => (
   <TransitionGroup>
@@ -36,6 +37,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/covidaids" element={<CovidAndAids />} />
         <Route path="/aboutjack" element={<Jack />} />
         <Route path="/blkarttoday" element={<BlackArt />} />
+        <Route path="/myresign" element={<Resign />} />
 
       </Routes>
     </CSSTransition>
