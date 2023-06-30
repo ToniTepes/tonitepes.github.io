@@ -645,23 +645,23 @@ const datawriting = [{
     link: "./tonijoseph",
 },
 {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "https://live.staticflickr.com/65535/53012035009_bfc613191c_3k.jpg",
     desctiption:
         "COVID-19 vs. HIV/AIDS: The Politics of `Public` Health",
     link: "./covidaids",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://live.staticflickr.com/65535/53011785421_83d6f4f984_3k.jpg",
     desctiption: "About Jack (A Not So Personal Narritive)",
     link: "./aboutjack",
 },
 {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "https://live.staticflickr.com/65535/53012331633_d489a1f66c_3k.jpg",
     desctiption: "Black Art Today",
     link: "./blkarttoday",
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "https://live.staticflickr.com/65535/53011846296_7378a87d65_4k.jpg",
     desctiption: "My Resignation",
     link: "./myresign",
 },
