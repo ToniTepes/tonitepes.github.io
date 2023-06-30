@@ -639,7 +639,7 @@ const resigning = {
 
 // Writing pages links (With images, and hidden title)
 const datawriting = [{
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://live.staticflickr.com/65535/53012047364_37aae428c0_b.jpg",
     desctiption:
         "Pulitzer Prize Winner Toni Y. Joseph. My Auntie",
     link: "./tonijoseph",
