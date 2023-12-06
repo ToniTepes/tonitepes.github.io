@@ -721,7 +721,7 @@ const socialprofils = {
     bandcamp: "https://minoritythreat.bandcamp.com/",
     github: "https://github.com/ToniTepes",
     youtube: "https://music.youtube.com/channel/UC-5NpGj81sclUdtBAw5-B4g",
-    instagram: "https://www.instagram.com/toni.tepes/",
+    instagram: "https://www.instagram.com/toni.d33/",
     linkedin: "https://www.linkedin.com/in/antonio-stacy-foushee-029b19131/",
     facebook: "https://www.facebook.com/profile.php?id=100080348373956",
 };
